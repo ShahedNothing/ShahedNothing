@@ -10,3 +10,4 @@ I want to learn algerithom.
 I want to learn machinelearning.
 I haven't telent.
 I want to like Computer since.
+I Love CS.
